@@ -1,0 +1,265 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpperBody
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Character1_Reference
+    m_Weight: 1
+  - m_Path: Character1_Reference/Character1_Hips
+    m_Weight: 1
+  - m_Path: Character1_Reference/Character1_Hips/Character1_LeftUpLeg
+    m_Weight: 0
+  - m_Path: Character1_Reference/Character1_Hips/Character1_LeftUpLeg/Character1_LeftLeg
+    m_Weight: 0
+  - m_Path: Character1_Reference/Character1_Hips/Character1_LeftUpLeg/Character1_LeftLeg/Character1_LeftFoot
+    m_Weight: 0
+  - m_Path: Character1_Reference/Character1_Hips/Character1_LeftUpLeg/Character1_LeftLeg/Character1_LeftFoot/Character1_LeftToeBase
+    m_Weight: 0
+  - m_Path: Character1_Reference/Character1_Hips/Character1_RightUpLeg
+    m_Weight: 0
+  - m_Path: Character1_Reference/Character1_Hips/Character1_RightUpLeg/Character1_RightLeg
+    m_Weight: 0
+  - m_Path: Character1_Reference/Character1_Hips/Character1_RightUpLeg/Character1_RightLeg/Character1_RightFoot
+    m_Weight: 0
+  - m_Path: Character1_Reference/Character1_Hips/Character1_RightUpLeg/Character1_RightLeg/Character1_RightFoot/Character1_RightToeBase
+    m_Weight: 0
+  - m_Path: Character1_Reference/Character1_Hips/Character1_Spine
+    m_Weight: 1
+  - m_Path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1
+    m_Weight: 1
+  - m_Path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2
+    m_Weight: 1
+  - m_Path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder
+    m_Weight: 1
+  - m_Path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm
+    m_Weight: 1
+  - m_Path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm
+    m_Weight: 1
+  - m_Path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Character1_LeftHand
+    m_Weight: 1
+  - m_Path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck
+    m_Weight: 1
+  - m_Path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head
+    m_Weight: 1
+  - m_Path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder
+    m_Weight: 1
+  - m_Path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm
+    m_Weight: 1
+  - m_Path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm
+    m_Weight: 1
+  - m_Path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:ChestEndEffector
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:ChestOriginEffector
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:HeadEffector
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:LeftUpLeg
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:LeftUpLeg/Character_Ctrl:LeftLeg
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:LeftUpLeg/Character_Ctrl:LeftLeg/Character_Ctrl:LeftFoot
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:LeftUpLeg/Character_Ctrl:LeftLeg/Character_Ctrl:LeftFoot/Character_Ctrl:LeftToeBase
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:RightUpLeg
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:RightUpLeg/Character_Ctrl:RightLeg
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:RightUpLeg/Character_Ctrl:RightLeg/Character_Ctrl:RightFoot
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:RightUpLeg/Character_Ctrl:RightLeg/Character_Ctrl:RightFoot/Character_Ctrl:RightToeBase
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:Neck
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:Neck/Character_Ctrl:Head
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:HipsEffector
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:LeftAnkleEffector
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:LeftElbowEffector
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:LeftFootEffector
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:LeftHipEffector
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:LeftKneeEffector
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:LeftShoulderEffector
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:LeftWristEffector
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:RightAnkleEffector
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:RightElbowEffector
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:RightFootEffector
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:RightHipEffector
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:RightKneeEffector
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:RightShoulderEffector
+    m_Weight: 1
+  - m_Path: Character_Ctrl:Reference/Character_Ctrl:RightWristEffector
+    m_Weight: 1
+  - m_Path: group1
+    m_Weight: 1
+  - m_Path: group1/group2
+    m_Weight: 1
+  - m_Path: group1/group2/group3
+    m_Weight: 1
+  - m_Path: group1/group2/group3/group4
+    m_Weight: 1
+  - m_Path: group1/group2/group3/group4/group15
+    m_Weight: 1
+  - m_Path: group1/group2/group3/group4/group15/group14
+    m_Weight: 1
+  - m_Path: group1/group2/group3/group4/group15/group14/group13
+    m_Weight: 1
+  - m_Path: group1/group2/group3/group4/group15/group14/group13/group12
+    m_Weight: 1
+  - m_Path: group1/group2/group3/group4/group15/group14/group13/group12/group11
+    m_Weight: 1
+  - m_Path: group1/group2/group3/group4/group15/group14/group13/group12/group11/group10
+    m_Weight: 1
+  - m_Path: group1/group2/group3/group4/group15/group14/group13/group12/group11/group10/group9
+    m_Weight: 1
+  - m_Path: group1/group2/group3/group4/group15/group14/group13/group12/group11/group10/group9/group8
+    m_Weight: 1
+  - m_Path: group1/group2/group3/group4/group15/group14/group13/group12/group11/group10/group9/group8/group7
+    m_Weight: 1
+  - m_Path: group1/group2/group3/group4/group15/group14/group13/group12/group11/group10/group9/group8/group7/group6
+    m_Weight: 1
+  - m_Path: group1/group2/group3/group4/group15/group14/group13/group12/group11/group10/group9/group8/group7/group6/group5
+    m_Weight: 1
+  - m_Path: group1/group2/group3/group4/group15/group14/group13/group12/group11/group10/group9/group8/group7/group6/group5/pCube4
+    m_Weight: 1
+  - m_Path: group1/group2/group3/group4/group15/group14/group13/group12/group11/group10/group9/group8/group7/group6/group5/pCube5
+    m_Weight: 1
+  - m_Path: TRC:optical
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:C7
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:CBWT
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LANK
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LBAC
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LBHD
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LBWT
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LCAV
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LELB
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LFHD
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LFIN
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LFRM
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LFWT
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LHEE
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LKNE
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LMT5
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LSHIN
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LSHO
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LTHI
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LTOE
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LUPA
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LWRIA
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:LWRIB
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RANK
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RBHD
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RBWT
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RCAV
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RELB
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RFHD
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RFIN
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RFRM
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RFWT
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RHEE
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RKNE
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RMT5
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RSHIN
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RSHO
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RTHI
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RTOE
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RUPA
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RWRIA
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:RWRIB
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:STRN
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:T10
+    m_Weight: 1
+  - m_Path: TRC:optical/TRC:UPHD
+    m_Weight: 1
